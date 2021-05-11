@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">bayrak_uygulamasi</string>
+    <string name="dogru">Doğru : 1</string>
+    <string name="yanlis">Yanlış : 1</string>
+    <string name="Soru">Soru : 1</string>
+    <string name="Türkiye">Türkiye</string>
+    <string name="Almanya">Almanya</string>
+    <string name="İtalya">İtalya</string>
+    <string name="Rusya">Rusya</string>
+    <string name="sonuc">3 Doğru 2 Yanlıs</string>
+    <string name="oran">%50 Başarı</string>
+    <string name="tekrarSoru">Tekrar Dene</string>
+    <string name="evet">EVET</string>
+    <string name="hayır">HAYIR</string>
+
+
+
+
+</resources>
